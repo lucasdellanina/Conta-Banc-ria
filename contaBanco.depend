@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1600980667 source:c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\contabanco\main.cpp
+	<iostream>
+	"conta.h"
+	"poupanca.h"
+	"corrente.h"
+
+1600941884 source:c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\contabanco\src\poupanca.cpp
+	"poupanca.h"
+	"conta.h"
+	<iostream>
+	"string.h"
+
+1600941667 c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\contabanco\include\poupanca.h
+	"conta.h"
+
+1600904622 source:c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\contabanco\src\conta.cpp
+	"conta.h"
+	<iostream>
+	"string.h"
+
+1600906452 c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\contabanco\include\conta.h
+
+1600941667 c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\contabanco\include\corrente.h
+	"conta.h"
+
+1600941884 source:c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\contabanco\src\corrente.cpp
+	"corrente.h"
+
